@@ -1,6 +1,6 @@
 # BMW Pricing 🚗💰
 
-<img src="img/bmw_pricing.png" alt="Logo BMW" width="300">
+<img src="img/bmw.png" alt="Logo BMW" width="300">
 
 ## Descripción del Proyecto 📝
 
